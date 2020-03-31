@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ikaros1264.github.io/"/>
-  <updated>2020-03-31T06:39:51.225Z</updated>
+  <updated>2020-03-31T06:27:10.136Z</updated>
   <id>https://ikaros1264.github.io/</id>
   
   <author>
@@ -15,21 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://ikaros1264.github.io/2020/03/31/test/"/>
-    <id>https://ikaros1264.github.io/2020/03/31/test/</id>
-    <published>2020-03-31T06:39:51.000Z</published>
-    <updated>2020-03-31T06:39:51.225Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
