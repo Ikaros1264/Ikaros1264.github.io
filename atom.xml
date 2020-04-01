@@ -5,9 +5,9 @@
   <subtitle>Urls for Picaacg Ios</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://ikaros1264.github.io/"/>
+  <link href="https://acgwp.zone/"/>
   <updated>2020-03-31T14:18:39.036Z</updated>
-  <id>https://ikaros1264.github.io/</id>
+  <id>https://acgwp.zone/</id>
   
   <author>
     <name>Acgzone</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://ikaros1264.github.io/2020/03/31/hello-world/"/>
-    <id>https://ikaros1264.github.io/2020/03/31/hello-world/</id>
+    <link href="https://acgwp.zone/2020/03/31/hello-world/"/>
+    <id>https://acgwp.zone/2020/03/31/hello-world/</id>
     <published>2020-03-31T14:18:39.034Z</published>
     <updated>2020-03-31T14:18:39.036Z</updated>
     
@@ -36,7 +36,7 @@
     
     
     
-      <category term="hexo" scheme="https://ikaros1264.github.io/tags/hexo/"/>
+      <category term="hexo" scheme="https://acgwp.zone/tags/hexo/"/>
     
   </entry>
   
