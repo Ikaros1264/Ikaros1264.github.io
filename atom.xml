@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.acgwp.zone/"/>
-  <updated>2020-03-31T14:18:39.036Z</updated>
+  <updated>2020-04-01T06:50:29.586Z</updated>
   <id>https://www.acgwp.zone/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>哔咔IOS 2020/4/1</title>
+    <link href="https://www.acgwp.zone/2020/04/01/%E5%93%94%E5%92%94IOS-2020-4-1/"/>
+    <id>https://www.acgwp.zone/2020/04/01/%E5%93%94%E5%92%94IOS-2020-4-1/</id>
+    <published>2020-04-01T06:49:23.000Z</published>
+    <updated>2020-04-01T06:50:29.586Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+      <category term="testflight" scheme="https://www.acgwp.zone/tags/testflight/"/>
+    
+      <category term="ios" scheme="https://www.acgwp.zone/tags/ios/"/>
+    
+      <category term="哔咔" scheme="https://www.acgwp.zone/tags/%E5%93%94%E5%92%94/"/>
+    
+      <category term="已失效" scheme="https://www.acgwp.zone/tags/%E5%B7%B2%E5%A4%B1%E6%95%88/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
